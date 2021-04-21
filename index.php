@@ -17,7 +17,7 @@
         <div class="container"><a class="navbar-brand text-uppercase d-lg-none text-expanded" href="#">BootsOnTheWater</a><button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="about.html">gallery</a></li>
                     <li class="nav-item"><a class="nav-link" href="store.html">Schedule an appointment</a></li>
                 </ul>
